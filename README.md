@@ -7,12 +7,12 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Samuel Lawal** 
-- :books: I am a **Frontend Developer**
-- 🌍: I'm living now in **Minna City, Nigeria**
-- :sweat_smile: I love writing Javascript codes.
-- :monocle_face: I'm interested in coding and playing games mostly chess.
-- :sunglasses: My quote is ***"when one's mind is made up, this diminishes fear"*** 
+- 💳: My full name is **Samuel Lawal** 
+- 📚: I am a **Frontend Developer**
+- 🌍: I'm living now in **Minna City, Niger State, Nigeria**
+- 😅: I love writing Javascript codes.
+- 🧐: I'm interested in coding and playing games mostly chess.
+- 😎: My quote is ***"when one's mind is made up, this diminishes fear"*** 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some tools and languages 
 <img src="https://badges.aleen42.com/src/javascript.svg" />  <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/typescript.svg" />  <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/node.svg" />
