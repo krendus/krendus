@@ -5,7 +5,7 @@
 </div>
 
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="20px"></img> About Me
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
 
 - 💳: My full name is **Samuel Lawal** 
 - 📚: I am a **Frontend Developer**
@@ -14,12 +14,12 @@
 - 🧐: I'm interested in coding and playing games mostly chess.
 - 😎: My quote is ***"when one's mind is made up, this diminishes fear"*** 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">   Some tools and languages 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="50px" width="50px">   Some tools and languages 
 <img src="https://badges.aleen42.com/src/javascript.svg" />  <img src="https://badges.aleen42.com/src/react.svg" />  <img src="https://badges.aleen42.com/src/typescript.svg" />  <img src="https://badges.aleen42.com/src/redux.svg" />  <img src="https://badges.aleen42.com/src/node.svg" />
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
+## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai1979&layout=compact&show_icon=true&theme=algolia" alt="samurai1979-langs"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=samurai1979&layout=compact&show_icon=true&theme=algolia" alt="samurai1979"/>
@@ -29,7 +29,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=samurai1979&theme=react-dark"/>
 </div>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> For More Information, Please Check Out or Connect Me Via
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:samuellawal1979@gmail.com" >
     <img align="center" alt="Samurai1979 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
