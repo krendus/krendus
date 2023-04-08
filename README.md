@@ -1,4 +1,4 @@
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/samurai1979?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/samurai1979?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/krendus?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/krendus?style=social"> &nbsp;&nbsp; ![counter](https://en45p9rvivielwz.m.pipedream.net)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+Samuel+Lawal;Welcome+to+my+profile!" alt="Title"></img>
@@ -21,32 +21,32 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="50px" width="50px"> About Some Stats
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samurai1979&layout=compact&show_icon=true&theme=algolia" alt="samurai1979-langs"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=samurai1979&layout=compact&show_icon=true&theme=algolia" alt="samurai1979"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krendus&layout=compact&show_icon=true&theme=algolia" alt="samurai1979-langs"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=krendus&layout=compact&show_icon=true&theme=algolia" alt="samurai1979"/>
 </div>
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=samurai1979&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=samurai1979&theme=react-dark"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=krendus&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=krendus&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> For More Information, Please Check Out or Connect Me Via
 <p align="center">
   <a href="mailto:samuellawal1979@gmail.com" >
-    <img align="center" alt="Samurai1979 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="Krendus | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/samurailawal/" target="_blank">
-    <img align="center" alt="Samurai1979 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Krendus | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://profile-summary-for-github.herokuapp.com/user/samurai1979" target="_blank">
-    <img align="center" alt="Samurai1979 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="Krendus | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
 
 <div align="center">
   Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2022 Samurai1979
+  &copy; 2022 Krendus
 </div>
 
 
